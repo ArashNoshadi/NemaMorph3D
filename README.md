@@ -140,4 +140,5 @@ To be specified (for example MIT or Apache-2.0). Add a `LICENSE` file to the rep
 
 ## Contact
 
-Habiballah Chadegani (corresponding author), Department of Plant Protection, Faculty of Agriculture, Yasouj University, Iran. Email: h.charehgani@yu.ac.ir
+Nowshadiarash@gmail.com
+
