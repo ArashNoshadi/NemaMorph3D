@@ -1,0 +1,30 @@
+# ==============================================================================
+# Requirements for Deep Learning-Enabled Instance Segmentation and 
+# 3D Biomorphometric Phenotyping of Root-Knot Nematodes (Scientific Reports)
+# ==============================================================================
+
+# Core Deep Learning Framework (YOLO11-seg)
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing & Computer Vision
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# Scientific Computing & 3D Geometric Reconstruction
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Data Manipulation & Results Export (.xlsx / .csv)
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Plotting & Scientific Visualizations
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities & Configuration Parsing
+PyYAML>=6.0
+tqdm>=4.65.0

@@ -1,0 +1,6 @@
+names:
+  0: nematode
+path: /mnt/g/Paper/Eggplant/Image/10x/try3/YOLO_Dataset_Master
+test: images/test
+train: images/train
+val: images/val
